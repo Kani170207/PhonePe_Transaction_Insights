@@ -3,7 +3,7 @@ PhonePe Transaction Insights
 A data analytics and visualization project that analyzes PhonePe transaction data across India and presents interactive insights using **Python, SQL, and Streamlit**.
 
 🔗 **Live App:**  
-https://phonepetransactioninsights-hzkk6fceufhxqrnlrgybtq.streamlit.app/
+[https://phonepetransactioninsights-hzkk6fceufhxqrnlrgybtq.streamlit.app/](https://phonepetransactioninsights-hzkk6fceufhxrqnlrgybtq.streamlit.app/)
 
 🔗 **GitHub Repository:**  
 https://github.com/Kani170207/PhonePe_Transaction_Insights
